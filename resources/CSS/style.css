@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: Verdana, sans-serif;
+	font-weight: Normal;
+	font-size: 50px;
+	font-color: white;
+	text-align: center;
+}
+
+.header-download {
+	font-size: 16px;
+	font-color: Aquamarine;
+	text-align: center;
+}
+
+.video {
+	text-align: center;
+}
+
