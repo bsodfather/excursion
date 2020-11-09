@@ -1,13 +1,13 @@
 body {
 	background-color: black;
 	font-family: Verdana, sans-serif;
+	text-align: center;
 }
 
 h1 {
 	font-weight: Normal;
 	font-size: 50px;
 	color: white;
-	text-align: center;
 }
 
 h2 {
@@ -16,13 +16,7 @@ h2 {
 	font-size: 42px;
 }
 
-footer article {
-	text-align: center;
-}
 
-img {
-	text-align: center;
-}
 
 .camp-article {
 	color: Gray;
@@ -31,14 +25,13 @@ img {
 
 .header-download, .footer-download {
 	font-size: 16px;
-	text-align: center;
 }
 
 .header-download a, .footer-download a{
 	color: Aquamarine;
 }
 
-.video {
-	text-align: center;
+aside {
+	text-align: right;
+	text-color: Gray;
 }
-
