@@ -16,22 +16,21 @@ h2 {
 	font-size: 42px;
 }
 
-
-
-.camp-article {
+.travel-guide p{
 	color: Gray;
 	font-size: 21px;
 }
 
-.header-download, .footer-download {
-	font-size: 16px;
+.travel-guide {
+	padding-bottom: 20px;
 }
 
 .header-download a, .footer-download a{
 	color: Aquamarine;
+	font-size: 16px;
 }
 
-.copyright {
+aside {
 	text-align: right;
 	color: Gray;
 }
